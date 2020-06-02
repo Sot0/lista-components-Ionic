@@ -1,0 +1,112 @@
+[
+    {
+      "icon": "american-football",
+      "name": "Action Sheet",
+      "redirectTo": "/action-sheet"
+    },
+    {
+      "icon": "logo-google-playstore",
+      "name": "Alert",
+      "redirectTo": "/alert"
+    },
+    {
+      "icon": "beaker",
+      "name": "Avatar y Chip",
+      "redirectTo": "/avatar"
+    },
+    {
+      "icon": "radio-button-on",
+      "name": "Botones y router",
+      "redirectTo": "/buttons"
+    },
+    {
+      "icon": "card",
+      "name": "Card",
+      "redirectTo": "/card"
+    },
+    {
+      "icon": "checkmark-circle",
+      "name": "Checkbox",
+      "redirectTo": "/checkbox"
+    },
+    {
+      "icon": "calendar",
+      "name": "DateTime",
+      "redirectTo": "/date-time"
+    },
+    {
+      "icon": "car",
+      "name": "Fabs",
+      "redirectTo": "/fab"
+    },
+    {
+      "icon": "grid",
+      "name": "Grid",
+      "redirectTo": "/grid"
+    },
+    {
+      "icon": "infinite",
+      "name": "Infinite Scroll",
+      "redirectTo": "/infinite-scroll"
+    },
+    {
+      "icon": "hammer",
+      "name": "Input - Forms",
+      "redirectTo": "/input"
+    },
+    {
+      "icon": "list",
+      "name": "List",
+      "redirectTo": "/list"
+    },
+    {
+      "icon": "list",
+      "name": "List Reorder",
+      "redirectTo": "/list-reorder"
+    },
+    {
+      "icon": "refresh-circle",
+      "name": "Loading",
+      "redirectTo": "/loading"
+    },
+    {
+      "icon": "phone-portrait",
+      "name": "Modal",
+      "redirectTo": "/modal"
+    },
+    {
+      "icon": "tablet-portrait",
+      "name": "Pop Over",
+      "redirectTo": "/popover"
+    },
+    {
+      "icon": "code-working",
+      "name": "ProgressBar y Range",
+      "redirectTo": "/progress-bar"
+    },
+    {
+      "icon": "refresh-circle",
+      "name": "Refresher",
+      "redirectTo": "/refresher"
+    },
+    {
+      "icon": "search",
+      "name": "Searchbar",
+      "redirectTo": "/searchbar"
+    },
+    {
+      "icon": "copy",
+      "name": "Segment",
+      "redirectTo": "/segment"
+    },
+    {
+      "icon": "albums",
+      "name": "Slides",
+      "redirectTo": "/slides"
+    },
+    {
+      "icon": "cog",
+      "name": "Tabs",
+      "redirectTo": "/tabs/cuenta"
+    }
+  ]

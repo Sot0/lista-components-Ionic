@@ -1,0 +1,17 @@
+<app-header [titulo]="title || 'Alert Page'"></app-header>
+
+<ion-content padding>
+  
+  <ion-button color="primary"
+              expand="full"
+              (click)="presentAlert()">
+    Mostrar Alerta
+  </ion-button>
+
+  <ion-button color="secondary"
+              expand="full"
+              (click)="presentAlertPrompt()">
+    Mostrar Input
+</ion-button>
+
+</ion-content>
