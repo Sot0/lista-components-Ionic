@@ -1,5 +1,7 @@
 {
-  "name": "03-componentes",
-  "integrations": {},
+  "name": "Componentes de Ionic 5",
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
